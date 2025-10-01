@@ -1,2 +1,1 @@
-# SQL-fundamentals
-Learning the fundamentals of SQL
+# Learning the fundamentals of SQL
