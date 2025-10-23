@@ -32,7 +32,7 @@ press up arrow to restate previous command
 
 ### Week 2: Relating (1 hr 41 min)
 
-**SQL KEYWORDS USED**: ...
+**SQL KEYWORDS USED**: IN, JOIN ... ON (inner join), LEFT/ RIGHT/ FULL/ NATURAL JOIN ... ON (outer joins). Sets: INTERSECT, UNION, EXCEPT. Groups: GROUP BY, HAVING.
 
 with *sqlite 3 in VSCode terminal*
 
