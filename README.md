@@ -32,5 +32,24 @@ press up arrow to restate previous command
 
 ### Week 2: Relating (1 hr 41 min)
 
+**SQL KEYWORDS USED**: ...
+
+with *sqlite 3 in VSCode terminal*
+
+<br/>
+
+**NOTES**:
+
+**Relating**: For when a DB has multiple tables within it
+
+ER Diagrams
+
+Unqiue identifiers: ISBN (primary keys)
+
+primary key in other table -> foreign key
+
+
+
+
 
 
