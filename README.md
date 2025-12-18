@@ -48,7 +48,9 @@ Unqiue identifiers: ISBN (primary keys)
 
 primary key in other table -> foreign key
 
+<br/>
 
+### Week 3: Designing (1 hr 21 min)
 
 
 
