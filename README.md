@@ -8,7 +8,7 @@
 
 **SQL KEYWORDS USED**: SELECT, FROM, LIMIT, WHERE, NOT, AND, OR, NULL, LIKE, BETWEEN ... AND ..., ORDER BY ASC/ DESC, COUNT, AVG, MIN, MAX, SUM, DISTINCT
 
-with *sqlite 3 in VSCode terminal*
+with *sqlite3 in VSCode terminal*
 
 <br/>
 
@@ -34,7 +34,7 @@ press up arrow to restate previous command
 
 **SQL KEYWORDS USED**: IN, JOIN ... ON (inner join), LEFT/ RIGHT/ FULL/ NATURAL JOIN ... ON (outer joins). Sets: INTERSECT, UNION, EXCEPT. Groups: GROUP BY, HAVING.
 
-with *sqlite 3 in VSCode terminal*
+with *sqlite3 in VSCode terminal*
 
 <br/>
 
@@ -52,6 +52,25 @@ primary key in other table -> foreign key
 
 ### Week 3: Designing (1 hr 21 min)
 
+**SQL KEYWORDS USED**: PRIMARY KEY, FOREIGN KEY. 
 
+Column Constraints: CHECK, DEFAULT, NOT NULL, UNIQUE. 
+Altering Tables: DROP TABLE, ALTER TABLE, ADD COLUMN, RENAME COLUMN, DROP COLUMN
 
+with *sqlite3 in VSCode terminal*
 
+<br/>
+
+**NOTES**: 
+
+Schema: ist of logical structures of data. Able to modify without having to rewrite in terminal.
+
+<br/>
+
+### Week 4: Writing (1 hr 43 min)
+
+**SQL KEYWORDS USED**: ,,,
+
+<br/>
+
+**NOTES**: ,,,
