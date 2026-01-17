@@ -55,6 +55,7 @@ primary key in other table -> foreign key
 **SQL KEYWORDS USED**: PRIMARY KEY, FOREIGN KEY. 
 
 Column Constraints: CHECK, DEFAULT, NOT NULL, UNIQUE. 
+
 Altering Tables: DROP TABLE, ALTER TABLE, ADD COLUMN, RENAME COLUMN, DROP COLUMN
 
 with *sqlite3 in VSCode terminal*
@@ -63,7 +64,7 @@ with *sqlite3 in VSCode terminal*
 
 **NOTES**: 
 
-Schema: ist of logical structures of data. Able to modify without having to rewrite in terminal.
+Schema: list of logical structures of data. Able to modify without having to rewrite in terminal.
 
 <br/>
 
